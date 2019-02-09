@@ -75,7 +75,7 @@
 						</div>
 						<div class="form-row">
 							<div class="form-group col-md-5 col-sm-12">
-								<label for="bairro">🏴󠁢󠁲󠁳󠁰󠁿 Bairro:</label>
+								<label for="bairro">🏠󠁢󠁲󠁳󠁰󠁿 Bairro:</label>
 								<input type="text" id="bairro" class="form-control" placeholder="Ex.: Jd. das Perolas">
 							</div>
 							<div class="form-group col-md-2 col-sm-12">
